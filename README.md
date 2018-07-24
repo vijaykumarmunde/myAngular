@@ -2,7 +2,7 @@
 Angular quick start sample application with angular-cli 6, bootstrap 4, font-awesome 5
 
 ## Demo
-[Click here](https://stackblitz.com/github/ashfaqch/angular6-quick-start-app)
+[Click here for demo](https://stackblitz.com/github/ashfaqch/angular6-quick-start-app)
 
 ## Installs 
 * bootstrap, jquery and popper:
